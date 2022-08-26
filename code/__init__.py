@@ -2,7 +2,7 @@ class Operation:
     def add(self, input1, input2):
         return input1 + input2
 
-    def add(self, input1, input2):
+    def multiply(self, input1, input2):
         return input1 * input2
 
     def subtract(self, input1, input2):
