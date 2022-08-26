@@ -9,7 +9,8 @@ class Operation:
         return input1 - input2
 
     def divide(self, input1, input2):
-        if input2 == 0:
-            pass
-        else:
-            return input1 / input2
+        try:
+            output = input1 / input2
+            return output
+        except ZeroDivisionError as err:
+            return err
