@@ -6,7 +6,7 @@ Home Work 1 for CSC-510 Fall 22 Group 41
 
 ![alt text](https://github.com/vishnuchalla/CSC-510-HW1-Fall22-G41/blob/main/images/softwareEngg.png?raw=true)
 
-Our project does basic arithematic operations wherein it performs addition, substraction, multiplication, and division of two numbers.
+Our project does basic arithematic operations wherein it performs addition, subtraction, multiplication, and division of two numbers.
 
 ### Group 41
 1. Vishnu Challa (vchalla2)
