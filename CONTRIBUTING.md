@@ -4,7 +4,7 @@ These are the guidelines for how the users can contribute to CSC-510-HW1-Fall22-
 
 ## Reporting Bugs
 
-This section guides you through submitting a bug report for CSC-510-HW1-Fall22-G41. Following these guidelines helps maintainers and the community understand your report, reproduce the behaviour and find related reports.
+This section guides you through submitting a bug report for CSC-510-HW1-Fall22-G41. Following these guidelines helps the authors and the community understand your report, reproduce the behaviour and find related reports.
 
 Before submitting a bug report perform a search to see if the problem has been reported previously.
 
@@ -13,7 +13,7 @@ Before submitting a bug report perform a search to see if the problem has been r
 1. Use a clear and descriptive title for the issue to identify the problem.
 2. Describe the exact steps which reproduce the problem in as much detail as possible.
 3. Explain which behaviour you expected to see instead and why.
-4. Include screenshots or a GIFs which shows you following the described steps and demonstrating the problem.
+4. Include screenshots or GIFs which shows you following the described steps and demonstrating the problem.
 
 ## How to add to this repository? 
 
