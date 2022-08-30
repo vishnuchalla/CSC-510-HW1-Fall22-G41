@@ -1,4 +1,4 @@
-# Contributing CSC-510-HW1-Fall22-G41
+# Contributing to CSC-510-HW1-Fall22-G41
 
 These are the guidelines for how the users can contribute to CSC-510-HW1-Fall22-G41!
 
