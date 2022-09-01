@@ -25,7 +25,7 @@ You will need Python in your system to run the code, before downloading the code
 3. If you are using other Linux distribution, chances are you already have Python 3 pre-installed as well. If not, use your distribution's package manager. 
 4. Just type python3 to verify if Python 3.x is successfully installed.
 
-### Referencess
+### References
 1. https://www.dataquest.io/blog/installing-python-on-mac/
 2. https://www.digitalocean.com/community/tutorials/install-python-windows-10
 3. https://docs.python-guide.org/starting/install3/linux/
